@@ -3,7 +3,7 @@
 `Mobile Application Developer` 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Guide+you%2C+from+concept+to+reality." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Guide+you+from+concept+to+reality." alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -12,10 +12,13 @@
 
 ---
 ## ✨ What Makes Me Unique
+-🧠 **Creativity Meets Logic**: Blend innovative thinking with structured problem-solving to craft original, actionable solutions.
 
-- 🧠 **Problem-Solver:** Turn complex ideas into elegant mobile solutions  
-- 🚀 **Tech Explorer:** Constantly learning bleeding-edge mobile technologies  
-- 🎨 **UI/UX Sensibility:** Code that looks as good as it performs  
+-🔍 **Tenacious Problem-Solver**: Thrive on dissecting challenges, uncovering root causes, and delivering elegant fixes—whether in code, design, or systems.
+
+-🚀 **Tech Explorer & Fast Learner**: Passionate about emerging technologies, with a knack for rapid mastery and practical application.
+
+- 🎨**UI/UX Sensibility**: Bridge aesthetics and functionality, designing intuitive experiences grounded in user psychology and clean aesthetics.
 
 ---
 
