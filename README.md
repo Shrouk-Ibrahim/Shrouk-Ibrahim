@@ -14,7 +14,7 @@
 ## ✨ What Makes Me Unique
 -🧠 **Creativity Meets Logic**: Blend innovative thinking with structured problem-solving to craft original, actionable solutions.
 
--🔍 **Problem-Solver**: Thrive on dissecting challenges, uncovering root causes, and delivering elegant fixes—whether in code, design, or systems.
+-🔍 **Problem-Solver**: Turn complex ideas into elegant mobile solutions.
 
 -🚀 **Tech Explorer & Fast Learner**: Passionate about emerging technologies, with a knack for rapid mastery and practical application.
 
