@@ -3,7 +3,7 @@
 `Mobile Application Developer` 
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Guide+you%2C+from+concept+to=reality." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&width=435&lines=Guide+you%2C+from+concept+to+reality." alt="Typing animation" />
 </p>
 
 <p align="center">
